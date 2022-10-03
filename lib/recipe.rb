@@ -18,6 +18,5 @@ class Recipe
   end
 end
 
-# pizza = Recipe.new({description: "tasty", name: "Super Pizza", prep_time: 10, rating: 4})
-
-# Recipe.new("Super PIzza", "tasty", 10, 4)
+# EXAMPLE
+# pizza = Recipe.new(description: "tasty", name: "Super Pizza", prep_time: 10, rating: 4)
